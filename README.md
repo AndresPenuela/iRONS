@@ -1,4 +1,4 @@
 
-<left> <img src="https://github.com/iRONStoolbox/iRONStoolbox/tree/master/iRONS/util/images/iRONS_logo_6.png" width = "300px"><left>
+![iRONS logo]("https://github.com/iRONStoolbox/iRONStoolbox/tree/master/iRONS/util/images/iRONS_logo_6.png")
   
-### iRONS has moved to the this new Github repository ![iRONS](https://github.com/iRONStoolbox/iRONStoolbox)
+### iRONS has moved to the this new Github repository [iRONStoolbox](https://github.com/iRONStoolbox/iRONStoolbox)
