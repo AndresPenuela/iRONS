@@ -1,4 +1,3 @@
-
-![iRONS logo]("https://github.com/iRONStoolbox/iRONStoolbox/tree/master/iRONS/util/images/iRONS_logo_6.png")
+![mountain monkey](util/animals_gelada.jpg)
   
-### iRONS has moved to the this new Github repository [iRONStoolbox](https://github.com/iRONStoolbox/iRONStoolbox)
+### iRONS has moved to the this Github repository: [iRONStoolbox](https://github.com/iRONStoolbox/iRONStoolbox)
